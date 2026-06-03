@@ -1,8 +1,3 @@
-Here is a stylish, fully customized GitHub Profile README tailored specifically to your exact tech stack, competitive programming achievements, and current academic status.
-
-I have included dynamic stat cards and sleek Shields.io badges for all your technologies. All you need to do is copy this entire block and paste it into the `README.md` file of your `Saksham-Wadhwa001` repository.
-
-```markdown
 <h1 align="center">Hi there, I'm Saksham Wadhwa! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="30px"></h1>
 
 <h3 align="center">Full-Stack Developer | Competitive Programmer | IT Undergrad at NIT Kurukshetra</h3>
@@ -85,5 +80,3 @@ I have included dynamic stat cards and sleek Shields.io badges for all your tech
 
 ---
 <p align="center"><i>"Building logic line by line."</i></p>
-
-```
