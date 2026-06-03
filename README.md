@@ -66,7 +66,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Wadhwa001&theme=tokyonight" alt="GitHub Streak" width="100%" />
-</p>
+</p> -->
 
 ---
 <p align="center"><i>"Building logic line by line."</i></p>
